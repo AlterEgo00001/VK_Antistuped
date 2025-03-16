@@ -1,0 +1,2 @@
+# VK_Antistuped
+Fuck_peredicly_your_console_in_silent_mode

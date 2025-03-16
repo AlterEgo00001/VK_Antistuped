@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "VK_Antistuped",
+  "version": "1.4",
+  "description": "Блокирует консоль и ошибки на VK.com и VKVideo.ru, сохраняя работу аудиоплеера",
+  "permissions": [
+    "activeTab",
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.vk.com/*",
+    "*://*.vkvideo.ru/*"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.vk.com/*", "*://*.vkvideo.ru/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": ["content.js"]
+}

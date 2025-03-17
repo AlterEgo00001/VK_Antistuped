@@ -1,3 +1,6 @@
+Опбуликовано на официальном сайте Firefox https://addons.mozilla.org/ru/firefox/addon/vk_antistuped/
+
+Для Chrome платить за участие в разработке не хочу по этому там расширение опубликовано не будет (но есть исходники здесь)
 
 ![icon128](https://github.com/user-attachments/assets/7f4a685b-39f3-4f0e-8dd7-6208081b04c2)
 

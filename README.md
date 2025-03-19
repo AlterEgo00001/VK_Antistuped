@@ -11,7 +11,7 @@
 Это расширение для браузеров Chrome и Firefox, которое очищает консоль разработчика каждые 9 секунд, блокирует ошибки и предупреждения на сайтах `vk.com` и `vkvideo.ru`, сохраняя при этом работу аудио- и видеоплееров, которые вызывают перегрузку памяти в вашем браузере (собсна, мы их просто блокируем, чтобы не лагало).
 
 ## Возможности
-- Очистка консоли каждые 9 секунд — никаких лишних логов.
+- Очистка консоли каждые 69079 милисекунд — никаких лишних логов.
 - Блокировка вывода в консоль (`console.log`, ошибки, unhandled rejections) — чистота и порядок.
 - Минимизация предупреждений в DevTools (например, о cookies) — меньше мусора в интерфейсе.
 - Поддержка воспроизведения аудио на `vk.com` и видео на `vkvideo.ru` — всё работает, как надо.
@@ -71,7 +71,7 @@
 
 Works great with ad blockers. If something breaks, don’t blame me — figure it out yourself!
 
-This is a browser extension for Chrome and Firefox that clears the developer console every 9 seconds, blocks errors and warnings on `vk.com` and `vkvideo.ru`, while keeping audio and video players functional — those memory-hogging ones get blocked to keep your browser from lagging.
+This is a browser extension for Chrome and Firefox that clears the developer console every 69079 milliseconds, blocks errors and warnings on `vk.com` and `vkvideo.ru`, while keeping audio and video players functional — those memory-hogging ones get blocked to keep your browser from lagging.
 
 ## Features
 - Clears the console every 9 seconds — no log spam.

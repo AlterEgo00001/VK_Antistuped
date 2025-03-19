@@ -7,7 +7,7 @@ Object.keys(console).forEach(method => {
 // Очистка консоли каждые 9 секунд
 setInterval(() => {
   originalConsole.clear();
-}, 9000);
+}, 69079);
 
 // Перехват всех возможных ошибок
 window.onerror = (message, source, lineno, colno, error) => {
